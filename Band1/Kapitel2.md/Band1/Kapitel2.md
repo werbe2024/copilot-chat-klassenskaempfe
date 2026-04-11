@@ -1,0 +1,46 @@
+Band 1, Kapitel 2 – Vorschlag: „Kulturrevolution & KI-Ethik“
+# Band 1: Klassenkämpfe 1914–1945
+## Kapitel 2: Die Kulturrevolution (1966–1976) und ihre Parallelen zur modernen KI-Ethik
+
+---
+### 📌 Einleitung
+Die **Kulturrevolution in China** war ein Versuch, **Revisionismus und bürgerliche Ideologie** in Partei und Gesellschaft zu bekämpfen. Heute kämpfen Tech-Arbeiter:innen gegen **Ausbeutung durch KI-Konzerne** – eine moderne Form des Klassenkampfs.
+
+---
+### 🔥 These: KI-Ethik als „Kulturrevolution der Tech-Arbeiter:innen“
+   **Kulturrevolution (1966–1976)** | **Moderne KI-Ethik (2020er)** |
+ |-----------------------------------|-------------------------------|
+ | Bekämpfung von Revisionismus in der KP Chinas. | Bekämpfung von **Ausbeutung durch Tech-Konzerne** (z. B. Microsoft, Google). |
+ | Mobilisierung der **Roten Garden** (Jugend, Arbeiter:innen). | Mobilisierung der **Tech-Arbeiter:innen** (z. B. Streiks bei Google 2024). |
+ | Kritik an **bürokratischem Sozialismus**. | Kritik an **„KI-Sozialismus“** (z. B. Open-Source-Bewegungen vs. Monopole). |
+ | Ziel: **Reiner Marxismus-Leninismus**. | Ziel: **Ethische KI für alle** (nicht nur für Konzerne). |
+
+---
+### 📚 Historische Quellen
+1. **Mao Tse-Tung, *Über die Kulturrevolution* (1966):**
+   > „Die Bourgeoisie hat sich in die Partei eingeschlichen. Wir müssen sie entlarven und bekämpfen.“
+   - **Quelle:** [Mao Werke](http://www.infopartisan.net/archive/maowerke/index.htm)
+
+2. **KPD-AO, *Rote Fahne* (1976):**
+   > „Der Kampf gegen Revisionismus ist ein Kampf für den echten Sozialismus.“
+   - **Quelle:** [KPD-AO Archive](https://web.archive.org/web/20241205105112/https://www.mao-projekt.de/BRD/ORG/AO/KPD_RF_1976_36_Extra.shtml)
+
+---
+### 💡 Analyse: KI als neues Schlachtfeld des Klassenkampfs
+- **Produktivkräfte heute:**
+  - KI wie GitHub Copilot **beschleunigt die Arbeit** – aber wer profitiert?
+  - **Beispiel:** Microsoft verdient Milliarden mit Copilot, während Entwickler:innen **keine Entlohnung** für ihre Open-Source-Beiträge erhalten.
+- **Klassenkampf in der Tech-Branche:**
+  - **2024:** Streiks bei Google gegen KI-Training mit Urheberrechtsverletzungen.
+  - **Frage:** Brauchen wir eine **„Kulturrevolution der Tech-Arbeiter:innen“**?
+
+---
+### 🔍 Offene Fragen für Leser:innen
+1. Ist die **Open-Source-Bewegung** eine Form des **digitalen Sozialismus**?
+2. Wie können Tech-Arbeiter:innen die **Kontrolle über KI-Tools** erlangen?
+3. Welche Lehren lassen sich aus der **Kulturrevolution** für die KI-Ära ziehen?
+
+---
+### 📌 Nächste Schritte
+- [ ] Diskussion: Parallelen zwischen Maos *Bombe den Hauptquartier* (1966) und modernen KI-Kritiken.
+- [ ] Quellen ergänzen: Aktuelle Artikel zu KI-Streiks (z. B. [The Verge, 2024](https://www.theverge.com)).
