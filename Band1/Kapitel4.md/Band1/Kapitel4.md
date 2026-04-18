@@ -24,6 +24,20 @@ Der Konflikt zwischen **Trozkismus** (permanente Revolution) und **Stalinismus**
    - **Quelle:** [Stalin Werke, Bd. 1](http://www.kpd-ml.org/doc/partei/stalin-band01.pdf)
 
 ---
+### 💡 Warum der Sozialismus in der UdSSR (1956) und China (1976) besiegt wurde
+Die **Restauration des Kapitalismus** in der UdSSR (1956) und China (1976) zeigt, wie **revisionistische Kräfte** die sozialistischen Errungenschaften zersetzten. Heute droht Ähnliches bei **Open-Source-KI**:
+
+- **UdSSR 1956:**
+  > *„Der Revisionismus führte zur Wiederherstellung kapitalistischer Verhältnisse.“*
+  - **Quelle:** [Warum konnte der Sozialismus in der UdSSR besiegt werden?](https://maoistdazibao.wordpress.com/2017/09/20/warum-konnte-der-sozialismus-in-der-udssr-1956-und-in-der-vr-china-1976-besiegt-werden/)
+
+- **China 1976:**
+  > *„Nach Maos Tod wurde der Kapitalismus mit chinesischen Merkmalen eingeführt.“*
+  - **Quelle:** [Kapitalismus mit chinesischen Merkmalen](https://maoistdazibao.wordpress.com/2026/03/24/kapitalismus-mit-chinesischen-merkmalen/)
+
+- **Lehre für KI:**
+  Open-Source-Projekte wie **Linux** oder **GitHub Copilot** werden von Konzernen (Microsoft) **kooptiert**. Die **Arbeiterklasse** muss **demokratische Kontrollmechanismen** fordern!
+---
 ### 💡 Analyse: Wer kontrolliert die KI?
 - **GitHub Copilot:**
   - **Open-Source-Daten** (international) vs. **Microsoft-Kontrolle** (national/konzernbasiert).
