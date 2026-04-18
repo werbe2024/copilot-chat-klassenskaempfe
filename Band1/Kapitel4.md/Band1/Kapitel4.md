@@ -14,6 +14,26 @@ Der Konflikt zwischen **Trozkismus** (permanente Revolution) und **Stalinismus**
  | **Internationale Arbeiterklasse**. | **Nationale Arbeiterklasse**. | **Globale Tech-Community** vs. **Nationale Regulierung (EU, USA, China)**. |
 
 ---
+ ### 💡 Warum der Sozialismus in der UdSSR (1956) und China (1976) besiegt wurde: Lehren für Open-Source-KI
+Die **Restauration des Kapitalismus** in der UdSSR (ab 1956) und China (ab 1976) zeigt, wie **revisionistische Kräfte** sozialistische Errungenschaften zersetzten. Heute droht Open-Source-KI ein ähnliches Schicksal: **Kooptation durch Tech-Konzerne**.
+
+- **UdSSR 1956: Revisionismus siegt**
+  > *„Der Revisionismus führte zur Wiederherstellung kapitalistischer Verhältnisse. Die Partei wurde von Bürokraten unterwandert, die die Interessen der Arbeiterklasse verrieten.“*
+  - **Quelle:** [Warum konnte der Sozialismus in der UdSSR besiegt werden?](https://maoistdazibao.wordpress.com/2017/09/20/warum-konnte-der-sozialismus-in-der-udssr-1956-und-in-der-vr-china-1976-besiegt-werden/)
+
+- **China 1976: Kapitalismus mit „chinesischen Merkmalen“**
+  > *„Nach Maos Tod wurde der Kapitalismus mit chinesischen Merkmalen eingeführt. Die Kulturrevolution wurde verraten, und die Bourgeoisie übernahm die Kontrolle über die Produktivkräfte.“*
+  - **Quelle:** [Kapitalismus mit chinesischen Merkmalen](https://maoistdazibao.wordpress.com/2026/03/24/kapitalismus-mit-chinesischen-merkmalen/)
+
+- **Lehren für Open-Source-KI:**
+  Open-Source-Projekte wie **Linux** oder **GitHub Copilot** basieren auf **kollektiver Arbeit**, werden aber zunehmend von Konzernen (Microsoft, Google) **kontrolliert und kommerzialisiert**.
+  - **Gefahr:** Wie in der UdSSR/China könnte Open-Source-KI **von Konzernen vereinnahmt** werden.
+  - **Lösung:**
+    - **Demokratische Kontrollmechanismen** (z. B. Genossenschaftsmodelle für KI-Tools).
+    - **Arbeiter:innen in Tech-Konzernen** müssen **KI-Entscheidungen mitbestimmen** (vgl. Forderungen nach Mitbestimmung in der Kulturrevolution).
+    - **Globale Solidarität:** Wie die **Dritte-Welt-Bewegungen** der 1960er/70er müssen **Open-Source-Communities** zusammenarbeiten, um KI **unabhängig von Konzernen** zu entwickeln.
+
+---
 ### 📚 Historische Quellen
 1. **Trotski, *Die permanente Revolution* (1930):**
    > „Die Revolution hört nicht an den nationalen Grenzen auf.“
