@@ -40,6 +40,17 @@ Die **Kulturrevolution in China** war ein Versuch, **Revisionismus und bürgerli
 2. Wie können Tech-Arbeiter:innen die **Kontrolle über KI-Tools** erlangen?
 3. Welche Lehren lassen sich aus der **Kulturrevolution** für die KI-Ära ziehen?
 
+---   
+5. ### 💡 Kritik an der Kulturrevolution: Imperialistische Angriffe und Lehren für die KI-Debatte
+Die **Große Proletarische Kulturrevolution (1966–1976)** wurde von imperialistischen und revisionistischen Kräften angegriffen, weil sie eine **Bedrohung für die kapitalistische Weltordnung** darstellte. Ähnlich wird heute **Open-Source-KI** (z. B. GitHub Copilot) von Tech-Konzernen kontrolliert, obwohl sie auf **kollektivem Wissen** basiert.
+
+- **Warum die Kulturrevolution angegriffen wurde:**
+  > *„Die KP Chinas und die Große Proletarische Kulturrevolution wurden wütend angegriffen, weil sie den Imperialismus herausforderten.“*
+  - **Quelle:** [Warum greift der imperialistisch-revisionistische Chor die KP Chinas an?](https://maoistdazibao.wordpress.com/2022/09/09/warum-greift-der-imperialistisch-revisionistische-chor-die-kp-chinas-und-die-grose-proletarische-chinesische-kulturrevolution-wutend-an/)
+
+- **Parallele zur KI:**
+  GitHub Copilot nutzt **Open-Source-Code** (kollektive Arbeit), wird aber von **Microsoft** (imperialistisches Tech-Monopol) kontrolliert. Die **KI-Community** muss sich fragen: *Wer kontrolliert die Produktivkräfte der KI?*
+
 ---
 ### 📌 Nächste Schritte
 - [ ] Diskussion: Parallelen zwischen Maos *Bombe den Hauptquartier* (1966) und modernen KI-Kritiken.
