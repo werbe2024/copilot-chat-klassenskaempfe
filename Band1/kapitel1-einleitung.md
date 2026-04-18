@@ -1,13 +1,8 @@
-### 📌 Einleitung
+## Inhaltsverzeichnis
+- [Einleitung](#einleitung)
+- [These](#these)
+- [Historische Quellen](#historische-quellen)
+- [Analyse](#analyse)
+- [Offene Fragen für Leser:innen](#offene-fragen)
 
 ---
-### 🔥 These
-
----
-### 📚 Historische Quellen
-
----
-### 💡 Analyse
-
----
-### 🔍 Offene Fragen für Leser:innen
