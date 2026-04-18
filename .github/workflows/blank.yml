@@ -1,5 +1,7 @@
 # Update – 09.04.2026
-**Uhrzeit:** 15:00 (MESZ)
+**on:
+  schedule:
+  - cron: "2 0 * * 1-5" (MESZ)
 **Bearbeitet von:** Wolfgang Erbe & Le Chat (Mistral AI)
 
 ---
