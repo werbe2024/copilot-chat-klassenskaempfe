@@ -47,6 +47,21 @@ Die **Große Proletarische Kulturrevolution (1966–1976)** wurde von imperialis
 - **Warum die Kulturrevolution angegriffen wurde:**
   > *„Die KP Chinas und die Große Proletarische Kulturrevolution wurden wütend angegriffen, weil sie den Imperialismus herausforderten.“*
   - **Quelle:** [Warum greift der imperialistisch-revisionistische Chor die KP Chinas an?](https://maoistdazibao.wordpress.com/2022/09/09/warum-greift-der-imperialistisch-revisionistische-chor-die-kp-chinas-und-die-grose-proletarische-chinesische-kulturrevolution-wutend-an/)
+ 
+- ### 💡 Kritik an der Kulturrevolution: Imperialistische Angriffe und Lehren für die KI-Debatte
+Die **Große Proletarische Kulturrevolution (1966–1976)** wurde von imperialistischen und revisionistischen Kräften angegriffen, weil sie eine **Bedrohung für die kapitalistische Weltordnung** darstellte. Die Kulturrevolution zielte darauf ab, **bürokratische Eliten** in Partei und Gesellschaft zu entmachten und die **Massen zu mobilisieren**. Ähnlich wird heute **Open-Source-KI** (z. B. GitHub Copilot) von Tech-Konzernen wie Microsoft kontrolliert, obwohl sie auf **kollektivem Wissen** basiert.
+
+- **Warum die Kulturrevolution angegriffen wurde:**
+  > *„Die KP Chinas und die Große Proletarische Kulturrevolution wurden wütend angegriffen, weil sie den Imperialismus herausforderten. Die Bourgeoisie fürchtete nichts mehr als eine Revolution, die die Massen ermächtigt.“*
+  - **Quelle:** [Warum greift der imperialistisch-revisionistische Chor die KP Chinas an?](https://maoistdazibao.wordpress.com/2022/09/09/warum-greift-der-imperialistisch-revisionistische-chor-die-kp-chinas-und-die-grose-proletarische-chinesische-kulturrevolution-wutend-an/)
+
+- **Parallele zur KI:**
+  GitHub Copilot nutzt **Open-Source-Code**, der von Millionen Entwickler:innen weltweit geschrieben wurde – eine **kollektive Produktivkraft**. Doch die **Kontrolle liegt bei Microsoft**, einem imperialistischen Tech-Monopol. Die **KI-Community** steht heute vor der gleichen Frage wie die Kulturrevolution:
+  *Wer kontrolliert die Produktivkräfte?*
+  - **Imperialistische Kooptation:** Tech-Konzerne nutzen Open-Source für Profite (vgl. Microsofts Übernahme von GitHub 2018).
+  - **Lösung:** Demokratische Kontrolle durch **Arbeiter:innen und Entwickler:innen** (z. B. durch Genossenschaftsmodelle für KI-Tools).
+
+---
 
 - **Parallele zur KI:**
   GitHub Copilot nutzt **Open-Source-Code** (kollektive Arbeit), wird aber von **Microsoft** (imperialistisches Tech-Monopol) kontrolliert. Die **KI-Community** muss sich fragen: *Wer kontrolliert die Produktivkräfte der KI?*
