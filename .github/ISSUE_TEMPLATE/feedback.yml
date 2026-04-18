@@ -1,0 +1,36 @@
+name: Frage oder Kommentar
+description: Nutzen Sie dieses Template für Rückmeldungen zum Projekt.
+title: "[Feedback]: "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke für Ihr Interesse an unserem Projekt! Nutzen Sie dieses Formular für Fragen oder Kommentare.
+  - type: dropdown
+    id: kapitel
+    attributes:
+      label: Zu welchem Kapitel/Abschnitt bezieht sich Ihr Feedback?
+      options:
+        - Band 1, Kapitel 1: Oktoberrevolution und GitHub Copilot
+        - Band 1, Kapitel 2: Kulturrevolution & KI-Ethik
+        - Band 1, Kapitel 3: KI und Wohnungskampf
+        - Band 2, Kapitel 1: Open-Source-KI
+        - Band 2, Kapitel 2: KI in Gewerkschaften
+        - Band 2, Kapitel 3: KI in Klimabewegungen
+        - Sonstiges (bitte unten ergänzen)
+    validations:
+      required: true
+  - type: textarea
+    id: frage
+    attributes:
+      label: Ihre Frage oder Ihr Kommentar
+      description: Beschreiben Sie Ihr Anliegen möglichst konkret.
+      placeholder: Z. B. "Wie kann ich die Fallstudie zu KI in Gewerkschaften in meiner Arbeit nutzen?"
+    validations:
+      required: true
+  - type: textarea
+    id: kontext
+    attributes:
+      label: Kontext (optional)
+      description: Fügen Sie ggf. Links, Zitate oder Screenshots hinzu.
