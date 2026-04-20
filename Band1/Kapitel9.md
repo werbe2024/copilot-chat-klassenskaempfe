@@ -16,11 +16,11 @@ KI-Systeme wie GitHub Copilot verändern die **globale Arbeitsteilung**. Währen
 ---
 ### 📚 Historische Quellen
 1. **Antonio Gramsci, *Gefängnishefte* (1929–1935):**
-   > „Die Herrschaft des Kapitals basiert auf der Kontrolle der Produktionsmittel – heute sind das Algorithmen.“
+   > „Die Herrschaft des Kapitals basiert auf der Kontrolle der Produktionsmittel – heute sind das Algorithmen."
    - [Gramsci Werke](https://www.marxists.org/deutsch/archiv/gramsci/)
 
 2. **Silvia Federici, *Revolution at Point Zero* (2012):**
-   > „Technologie kann Befreiung oder Unterdrückung sein – je nachdem, wer sie kontrolliert.“
+   > „Technologie kann Befreiung oder Unterdrückung sein – je nachdem, wer sie kontrolliert."
    - [Federici Archive](https://www.pmpress.org/index.php?l=product_detail&p=412)
 
 ---
